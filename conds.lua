@@ -1,3 +1,5 @@
+--[[ classic conditional programming ]]--
+
 function testBoolean(bool1)
     if (bool1 == true) then
         print ("it is true !! 😀")
