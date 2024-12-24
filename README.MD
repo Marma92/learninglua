@@ -10,3 +10,7 @@ While I was (re)learning it from scratch, I thought sharing my programming journ
 - [Variables](./vars.lua)
 - [Functions](./funcs.lua)
 - [Basic Maths Operations](./maths.lua)
+
+## Credits
+
+@marma92 2024, under MIT license.
