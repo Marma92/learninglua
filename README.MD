@@ -8,6 +8,7 @@ While I was (re)learning it from scratch, I thought sharing my programming journ
 
 - [Hello World](./hello.lua)
 - [Variables](./vars.lua)
+- [Conditions](./conds.lua)
 - [Functions](./funcs.lua)
 - [Basic Maths Operations](./maths.lua)
 
