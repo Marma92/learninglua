@@ -12,6 +12,7 @@ While I was (re)learning it from scratch, I thought sharing my programming journ
 * [Operators](./oper.lua)
 * [Functions](./funcs.lua)
 * [Basic Maths Operations](./maths.lua)
+* [Files operations](./files.lua)
 
 ## Credits
 
