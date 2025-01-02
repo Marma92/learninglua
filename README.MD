@@ -11,8 +11,10 @@ While I was (re)learning it from scratch, I thought sharing my programming journ
 * [Conditions](./conds.lua)
 * [Operators](./oper.lua)
 * [Functions](./funcs.lua)
-* [Basic Maths Operations](./maths.lua)
+* [Basic maths operations](./maths.lua)
 * [Files operations](./files.lua)
+* [Custom Modules](./modules1.lua)
+* [Custom Modules usage](./modules2.lua)
 
 ## Credits
 
