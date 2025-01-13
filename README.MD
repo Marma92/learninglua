@@ -15,6 +15,7 @@ While I was (re)learning it from scratch, I thought sharing my programming journ
 * [Files operations](./files.lua)
 * [Custom Modules](./modules1.lua)
 * [Custom Modules usage](./modules2.lua)
+* [Object-Oriented Programming](./oop.lua)
 
 ## Credits
 
